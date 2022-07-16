@@ -20,7 +20,7 @@ function validaArrays(arr, num) {
 			console.log(e.stack);
 		} else {
 			console.log('Outro tipo de erro!');
-			console.log(e.stack);
+			console.log(e.stack); 
 		}
 	}
 }
